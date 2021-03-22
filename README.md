@@ -1,3 +1,4 @@
 # exemple_jv2d
 
-Voici un exemple de projet pour le cours de JV2D
+Voici un exemple de projet pour le cours.
+Un petit complément.
